@@ -19,7 +19,7 @@
     "styled-media-query": "^2.1.2"
   },
   "scripts": {
-    "start": "node server",
+    "start": "npm run build node server",
     "postinstall": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
