@@ -17,7 +17,8 @@
     "redux": "^4.0.4",
     "redux-localstore": "^0.4.0",
     "styled-components": "^4.4.1",
-    "styled-media-query": "^2.1.2"
+    "styled-media-query": "^2.1.2",
+    "uuid": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
